@@ -1,0 +1,7 @@
+{
+  "name": "LV Motor Starter Panel Design Assistant",
+  "description": "Deterministic electrical design assistant for low-voltage motor starter panels adhering strictly to IEC 60947 and UL 508A standards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
